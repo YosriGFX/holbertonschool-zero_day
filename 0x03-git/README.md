@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-Update from the web.
-=======
-I edited this from web.
->>>>>>> update_script
+/** I edited this from web. **/
+
+About this project : 
+In this project, I have fully understand git and how to basic ... 
